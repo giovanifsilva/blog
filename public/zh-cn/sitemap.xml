@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh-cn/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh-cn/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh-cn/categories/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,6 +13,19 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="http://localhost:1313/zh-cn/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-cn/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="http://localhost:1313/zh-cn/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-cn/posts/</loc>
@@ -249,19 +249,6 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="http://localhost:1313/zh-cn/tags/tailwind-css/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-cn/about/</loc>
-    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh-cn/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-cn/series/</loc>

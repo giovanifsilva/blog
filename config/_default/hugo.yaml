@@ -1,8 +1,8 @@
-baseURL: https://hugo-narrow.vercel.app/
+baseURL: https://giovanifsilva.com/
 languageCode: en-US
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-title: Hugo Narrow
+title: Giovani F. Silva
 theme: "hugo-narrow"
 
 hasCJKLanguage: true

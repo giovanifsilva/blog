@@ -1,6 +1,6 @@
 ---
 dismissible: true
-date: 2025-12-31
+date: 2026-02-16
 title: "Home"
 author:
   name: "Giovani F. Silva's Technical Blog"
@@ -19,4 +19,11 @@ author:
       icon: "email"
 ---
 
-**Site Notification**  Please consider this site is still under development!
+**Site Notification**  Please consider this site is still under development!<br>
+
+ **In the future this site will include:**
+<ul>
+  <li>- Data science and technical project Showcases </li>
+  <li>- Code snippits from projects I've worked on</li>
+  <li>- Language options</li>
+</ul>

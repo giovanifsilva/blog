@@ -1,6 +1,6 @@
 ---
-title: "Shortcodes"
-date: 2025-12-26
+title: "Shortcodes Sample"
+date: 2026-02-16
 draft: false
 description: "A complete guide to all available shortcodes for the Hugo Narrow theme"
 tags: ["shortcode"]

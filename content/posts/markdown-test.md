@@ -1,8 +1,8 @@
 ---
-title: "Markdown Syntax Guide"
-date: 2024-01-15T10:00:00+08:00
+title: "Markdown Syntax Test"
+date: 2026-02-16T10:00:00+08:00
 draft: false
-summary: "This is a post which includes all available Markdown syntax."
+summary: "This is a test post which includes all available Markdown syntax."
 categories: ["Markdown"]
 tags: ["markdown"]
 ---
@@ -33,7 +33,7 @@ This is a paragraph under a level 6 heading.
 
 ## Paragraphs and Text Formatting
 
-This is a normal paragraph. It can contain **bold text**, *italic text*, ***bold italic text***, ~~strikethrough~~, `inline code`, and [link text](https://example.com).
+This is a normal paragraph. It can contain **bold text**, *italic text*, ***bold italic text***, ~~strikethrough~~, `inline code`, and [link text](https://giovanifsilva.com).
 
 This is another paragraph to test spacing between paragraphs.
 
